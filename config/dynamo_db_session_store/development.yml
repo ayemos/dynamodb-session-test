@@ -1,0 +1,4 @@
+table_name: DynamoDBSessionTest
+table_key: session_id
+max_age: 2592000
+max_stale: 2592000
